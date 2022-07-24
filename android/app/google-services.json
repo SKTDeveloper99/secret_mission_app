@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "597612844501",
+    "project_id": "test-map-realtime-fire",
+    "storage_bucket": "test-map-realtime-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597612844501:android:33b16d6442dc41d136595c",
+        "android_client_info": {
+          "package_name": "com.example.aaron_inspiring_quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfcweemukNupu-mqxBDl-WbzxET4SiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597612844501-ciup1ffv2pgg1fc1m8bdtkg6knkdhps7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapWithFirestoreAndRealtime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597612844501:android:0437189b505c5a6536595c",
+        "android_client_info": {
+          "package_name": "com.example.google_map_with_firestore_and_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfcweemukNupu-mqxBDl-WbzxET4SiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597612844501-ciup1ffv2pgg1fc1m8bdtkg6knkdhps7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapWithFirestoreAndRealtime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597612844501:android:1d98c08f70aa599736595c",
+        "android_client_info": {
+          "package_name": "com.example.secret_mission_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfcweemukNupu-mqxBDl-WbzxET4SiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597612844501-08jhhgkk8uo1l10ampsbs4fqkt0b785h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597612844501-ciup1ffv2pgg1fc1m8bdtkg6knkdhps7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapWithFirestoreAndRealtime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
